@@ -21,28 +21,34 @@ System.out.println("Welcome to my Github");
 <br><br>
 
 
-## I code in
+## I Code In
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/50/c-programming.png" alt="c-programming"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png" alt="python"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="html-5"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+<p align="left">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/c-programming.png" alt="c"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c++"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png" alt="python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="html"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+</p>
+
 <br><br>
 
 ## IDE and Tools I Use
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/notion.png" alt="notion"/>
-<img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
+<p align="left">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/notion.png" alt="notion"/>
+  <img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman"/>
+</p>
+
