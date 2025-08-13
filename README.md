@@ -56,9 +56,11 @@ System.out.println("Welcome to my Github");
 
 <p align="left">
   <!-- Device -->
-  <img src="https://img.shields.io/badge/Device-MacBook-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Device-MacBook%20Air-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <!-- Chip / CPU (pick one or keep both if you use multiple machines) -->
   <img src="https://img.shields.io/badge/Chip-Apple%20M1-333333?style=for-the-badge&logo=apple&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/Device-Windows%20PC-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/CPU-Ryzen%205%204600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <!-- GPU (optional) -->
   <img src="https://img.shields.io/badge/GPU-NVIDIA%20GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
