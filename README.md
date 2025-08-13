@@ -68,6 +68,6 @@ System.out.println("Welcome to my Github");
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Vignesh-Programmer&show_icons=true&theme=merko)
 <br><br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/mxwSF408rY?theme=light&font=Noto%20Sans%20Miao&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mxwSF408rY?theme=dark&font=Noto%20Sans%20Miao&ext=activity)
 <br><br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Vignesh-Programmer&bg_color=f2cfcf&color=c639bc&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=S-Vignesh-Programmer&bg_color=2f2d2d&color=c6ba39&line=4c919e&point=974444&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
