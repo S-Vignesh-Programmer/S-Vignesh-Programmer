@@ -52,3 +52,25 @@ System.out.println("Welcome to my Github");
   <img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman"/>
 </p>
 
+## Workspace Spec
+
+
+<p align="left">
+  <!-- MacBook Air -->
+  <img src="https://img.shields.io/badge/Device-MacBook%20Air-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chip-Apple%20M1-333333?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Storage-256GB%20SSD-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/macOS-Ventura%2013.x-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+<p align="left">
+  <!-- Windows -->
+  <img src="https://img.shields.io/badge/Device-Windows%20PC-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chip-Intel%20i5%2011th%20Gen-333333?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Storage-512GB%20SSD-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows-11%20Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+
