@@ -2,6 +2,8 @@
 
 **Aspiring Software Developer**
 
+**"Half my life, I learned from pages — now, I turn them into code."**
+
 ```java
 System.out.println("Welcome to my Github");
 ```
