@@ -66,7 +66,7 @@ System.out.println("Welcome to my Github");
   <img src="https://img.shields.io/badge/GPU-NVIDIA%20GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Vignesh-Programmer)](https://github.com/S-Vignesh-Programmer/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Vignesh-Programmer&show_icons=true&theme=merko)
 <br><br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mxwSF408rY?theme=light&font=Noto%20Sans%20Miao&ext=activity)
 <br><br>
