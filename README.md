@@ -64,10 +64,7 @@ System.out.println("Welcome to my Github");
   <img src="https://img.shields.io/badge/CPU-Ryzen%205%204600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <!-- GPU (optional) -->
   <img src="https://img.shields.io/badge/GPU-NVIDIA%20GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <!-- Memory / Storage (optional) -->
-  <img src="https://img.shields.io/badge/RAM-8GB-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Storage-256GB%20SSD-555555?style=for-the-badge" />
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Vignesh-Programmer)](https://github.com/S-Vignesh-Programmer/github-readme-stats)
 
