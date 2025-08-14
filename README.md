@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Vignesh
 
-**Software Developer**
+**Software Developer** | **Full Stack Developer**
 
 **"Half my life, I learned from pages — now, I turn them into code."**
 
