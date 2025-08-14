@@ -1,6 +1,6 @@
 # Hi there 👋 It's me Vignesh
 
-**Aspiring Software Developer**
+**Software Developer**
 
 **"Half my life, I learned from pages — now, I turn them into code."**
 
